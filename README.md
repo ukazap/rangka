@@ -10,6 +10,16 @@ A [walking skeleton 💀](https://www.codewithjason.com/walking-skeleton-always-
 
 RSpec, Capybara, Factory Bot, Faker.
 
+### Auth & Auth
+
+Rodauth for authentication
+
+ActionPolicy for authorization
+
+### Dashboard
+
+Administrate
+
 ### Containerization
 
 [TODO] Docker files for development and deployment.
