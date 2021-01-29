@@ -1,4 +1,4 @@
-# Rails Skeleton
+# Rangka
 
 A [walking skeleton 💀](https://www.codewithjason.com/walking-skeleton-always-start-projects-one/) Rails template.
 
