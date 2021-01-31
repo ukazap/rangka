@@ -31,7 +31,7 @@ Administrate
 To start a new Rails project based on this template:
 
 ```sh
-rails new the_next_unicorn -m https://raw.githubusercontent.com/ukazap/rails-skeleton/main/template.rb
+rails new the_next_unicorn -m https://raw.githubusercontent.com/ukazap/rangka/main/template.rb
 ```
 
 ### Existing project
@@ -39,5 +39,5 @@ rails new the_next_unicorn -m https://raw.githubusercontent.com/ukazap/rails-ske
 To apply this template to an existing Rails project:
 
 ```sh
-rails app:template LOCATION=https://raw.githubusercontent.com/ukazap/rails-skeleton/main/template.rb
+rails app:template LOCATION=https://raw.githubusercontent.com/ukazap/rangka/main/template.rb
 ```
